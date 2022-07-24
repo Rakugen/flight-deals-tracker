@@ -124,9 +124,7 @@ data_manager.get_data()
 # print("Original Data: ")
 # data_manager.show_data()
 # new_data = flight_search.search()
-# print("New Data: ")
-# print(new_data)
-#
+
 # # Update sheets with new search results
 # data_manager.update_data(new_data)
 
